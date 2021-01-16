@@ -11,10 +11,10 @@ app.use(bp.json());
 app.use(cors());
 app.use(express.static(path.join(__dirname, "public")));
 
-// const uri =
-//   "mongodb+srv://kibria:123456787533@mycluster.tmcxv.mongodb.net/newchaincome?retryWrites=true&w=majority";
+const uri =
+  "mongodb+srv://admin:kibria7533@cluster0.ak8uw.mongodb.net/ltesconnect?retryWrites=true&w=majority";
 
-const uri = "mongodb://localhost:27017/myapp";
+// const uri = "mongodb://localhost:27017/myapp";
 mongoose.connect(uri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,

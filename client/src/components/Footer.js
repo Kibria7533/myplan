@@ -10,7 +10,7 @@ class Footer extends Component {
               <div className="col-lg-3 col-md-6 col-sm-6 col">
                 <h5 className="headin5_amrc col_white_amrc pt2">About Us</h5>
                 {/*headin5_amrc*/}
-                <p className="mb10">Chaincome মুলত একটি E-commerce website</p>
+                <p className="mb10">We belive in ourselvs</p>
                 <ul className="footer-social">
                   <li>
                     <a
@@ -72,8 +72,8 @@ class Footer extends Component {
                       <i className="fab fa-twitter fleft padding-right" />{" "}
                     </a>
                     <p>
-                      Chaincome facebook Page
-                      <a href="https://www.facebook.com/chaincome247">
+                      Uddokta facebook Page
+                      <a href="https://www.facebook.com/groups/209982657507630">
                         Click here
                       </a>
                     </p>
@@ -85,7 +85,7 @@ class Footer extends Component {
           </div>
           <div className="container">
             <p className="copyright text-center">
-              All Rights Reserved. © 2021 <a href="#">Chaincome</a> Developed By
+              All Rights Reserved. © 2021 <a href="#">uddoktabd</a> Developed By
               :
               <a href="https://www.facebook.com/groups/trippledev">
                 TrippleDev

@@ -46,12 +46,12 @@ router.post(
       .not()
       .isEmpty()
       .withMessage("Permanentaddress is required."),
-    body("selectedproduct")
-      .not()
-      .isEmpty()
-      .withMessage("Selectedproduct is required."),
-    body("thana").not().isEmpty().withMessage("thana is required."),
-    body("dist").not().isEmpty().withMessage("dist is required."),
+    // body("selectedproduct")
+    //   .not()
+    //   .isEmpty()
+    //   .withMessage("Selectedproduct is required."),
+    // body("thana").not().isEmpty().withMessage("thana is required."),
+    // body("dist").not().isEmpty().withMessage("dist is required."),
     check("password")
       .isLength({ min: 5 })
       .withMessage("must be at least 5 chars long")
@@ -505,7 +505,7 @@ router.post(
     const send = require("gmail-send")({
       user: process.env.Mailstore,
       pass: process.env.pass,
-      to: "chaincomebd@gmail.com",
+      to: "trippledevbd@gmail.com",
       subject: req.body.fullname,
     });
 

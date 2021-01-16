@@ -44,22 +44,22 @@ class Header extends Component {
                 <div className="social-media">
                   <ul>
                     <li>
-                      <Link to="https://www.facebook.com/chaincome.bond.5">
+                      <Link to="https://www.facebook.com/groups/209982657507630">
                         <i className="fab fa-facebook-f" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="https://www.instagram.com/p/CI-vYVKrPCx/?igshid=185toy97k7j7y">
+                      <Link to="https://www.facebook.com/groups/209982657507630">
                         <i className="fab fa-instagram" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="https://youtube.com/channel/UCfMIJQuS0Dv-QvcXuQiI9rw">
+                      <Link to="https://www.facebook.com/groups/209982657507630">
                         <i className="fab fa-google-plus-g" />
                       </Link>
                     </li>
                     <li>
-                      <Link to="https://twitter.com/Chaincome1?s=09">
+                      <Link to="https://www.facebook.com/groups/209982657507630">
                         <i className="fab fa-twitter" />
                       </Link>
                     </li>
@@ -70,10 +70,10 @@ class Header extends Component {
                 <div className="contact-details">
                   <ul>
                     <li>
-                      <i className="fas fa-phone fa-rotate-90" /> +01854563442
+                      <i className="fas fa-phone fa-rotate-90" /> +01720588884
                     </li>
                     <li>
-                      <i className="fas fa-map-marker-alt" /> Mirpur 2, Dhaka
+                      <i className="fas fa-map-marker-alt" /> Banani, Dhaka
                     </li>
                   </ul>
                 </div>
@@ -84,7 +84,7 @@ class Header extends Component {
         <Navbar bg="light" expand="lg">
           <Navbar.Brand href="/">
             {" "}
-            <img src="images/chainlogo.png" alt="logo" />
+            <img src="images/udokta.png" alt="logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse

@@ -198,7 +198,7 @@ const userRegister = async (userDets, role, res) => {
                           </tr>
                           <tr>
                               <td bgcolor="#ffffff" align="left" style="padding: 0px 30px 40px 30px; border-radius: 0px 0px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                  <p style="margin: 0;">Cheers,<br>Chaincome Team</p>
+                                  <p style="margin: 0;">Cheers,<br>uddokta team</p>
                               </td>
                           </tr>
                       </table>
@@ -210,7 +210,7 @@ const userRegister = async (userDets, role, res) => {
                           <tr>
                               <td bgcolor="#FFECD1" align="center" style="padding: 30px 30px 30px 30px; border-radius: 4px 4px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
                                   <h2 style="font-size: 20px; font-weight: 400; color: #111111; margin: 0;">Need more help?</h2>
-                                  <p style="margin: 0;"><a href="https://www.facebook.com/chaincome.bond.5" target="_blank" style="color: #FFA73B;">We&rsquo;re here to help you out</a></p>
+                                  <p style="margin: 0;"><a href="https://www.facebook.com/groups/209982657507630" target="_blank" style="color: #FFA73B;">We&rsquo;re here to help you out</a></p>
                               </td>
                           </tr>
                       </table>
@@ -221,7 +221,7 @@ const userRegister = async (userDets, role, res) => {
                       <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;">
                           <tr>
                               <td bgcolor="#f4f4f4" align="left" style="padding: 0px 30px 30px 30px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; line-height: 18px;"> <br>
-                                  <p style="margin: 0;">If these emails get annoying, please feel free to <a href="https://www.facebook.com/chaincome.bond.5" target="_blank" style="color: #111111; font-weight: 700;">unsubscribe</a>.</p>
+                                  <p style="margin: 0;">If these emails get annoying, please feel free to <a href="https://www.facebook.com/groups/209982657507630" target="_blank" style="color: #111111; font-weight: 700;">unsubscribe</a>.</p>
                               </td>
                           </tr>
                       </table>
@@ -831,7 +831,7 @@ const Newuseractivate = async (email, res) => {
                             </tr>
                             <tr>
                                 <td bgcolor="#ffffff" align="left" style="padding: 0px 30px 40px 30px; border-radius: 0px 0px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
-                                    <p style="margin: 0;">Cheers,<br>Chaincome Team</p>
+                                    <p style="margin: 0;">Cheers,<br>uddokta Team</p>
                                 </td>
                             </tr>
                         </table>
@@ -843,7 +843,7 @@ const Newuseractivate = async (email, res) => {
                             <tr>
                                 <td bgcolor="#FFECD1" align="center" style="padding: 30px 30px 30px 30px; border-radius: 4px 4px 4px 4px; color: #666666; font-family: 'Lato', Helvetica, Arial, sans-serif; font-size: 18px; font-weight: 400; line-height: 25px;">
                                     <h2 style="font-size: 20px; font-weight: 400; color: #111111; margin: 0;">Need more help?</h2>
-                                    <p style="margin: 0;"><a href="https://www.facebook.com/chaincome.bond.5" target="_blank" style="color: #FFA73B;">We&rsquo;re here to help you out</a></p>
+                                    <p style="margin: 0;"><a href="https://www.facebook.com/groups/209982657507630" target="_blank" style="color: #FFA73B;">We&rsquo;re here to help you out</a></p>
                                 </td>
                             </tr>
                         </table>

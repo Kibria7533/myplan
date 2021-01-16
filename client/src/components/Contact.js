@@ -165,19 +165,19 @@ class Contact extends Component {
               <div className="col-lg-4 mb-4 contact-right">
                 <h3>Contact Details</h3>
                 <p>
-                  Mirpur 2
+                  Banani
                   <br />
                   Dhaka
                   <br />
                 </p>
                 <p>
-                  <abbr title="Phone">P</abbr>: 01854563442
+                  <abbr title="Phone">P</abbr>: 01720588884
                 </p>
                 <p>
                   <abbr title="Email">E</abbr>:
-                  <a href="mailto:chaincome2020@gmail.com">
+                  <a href="mailto:tenminuteversity@gmail.com">
                     {" "}
-                    chaincome2020@gmail.com{" "}
+                    tenminuteversity@gmail.com{" "}
                   </a>
                 </p>
                 <p>
