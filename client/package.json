@@ -2,8 +2,8 @@
   "name": "to-do",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://newchaincome.herokuapp.com",
-  "homepage": "https://newchaincome.herokuapp.com",
+  "proxy": "https://uddoktabd.herokuapp.com",
+  "homepage": "https://uddoktabd.herokuapp.com",
   "dependencies": {
     "@agney/react-loading": "^0.1.2",
     "@ckeditor/ckeditor5-build-classic": "^24.0.0",
